@@ -43,7 +43,7 @@ This project analyzes Zudio sales data using Pivot Tables, Charts, and Slicers t
 
 ## 📸 Dashboard
 
-![Dashboard](ZudioSalesDashboard.png)
+![Dashboard](ZudioSalesDshboard.png)
 
 ---
 
