@@ -41,12 +41,6 @@ This project analyzes Zudio sales data using Pivot Tables, Charts, and Slicers t
 
 ---
 
-## 📸 Dashboard
-
-![Dashboard](ZudioSalesDshboard.png)
-
----
-
 ## 📁 Dataset
 
 The project uses a retail sales dataset containing approximately **5,000 sales records** with product, pricing, quantity, store, and regional information.
